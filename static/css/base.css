@@ -49,6 +49,7 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 #board-of-directors section{display:table;border-top:1px dashed #ddd;margin-top:5px;}
 #board-of-directors section div{display:table-cell;padding:10px;vertical-align:top;}
 #board-of-directors section p{margin:0px;padding:0px;}
+.board-of-directors-image {width:80px}
 
 /* FOOTER */
 #footer, #disclosure {color:#777;font-size:13px;padding:20px;border-top:1px solid #eee;text-align:center;}
